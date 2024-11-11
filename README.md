@@ -1,4 +1,5 @@
 # How to contribute to the project
+(eMobilis class assignment)
 
 Prerequisites
 
