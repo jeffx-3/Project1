@@ -4,8 +4,8 @@ from django.shortcuts import render
 '''You can actualy rename the views according to the templates you'll create '''
 
 # Create your views here.
-def home(request):
-    return render(request, 'home.html')
+def index(request):
+    return render(request, 'index.html')
 
 #about view
 def about(request):
@@ -16,12 +16,12 @@ def contact(request):
     return render(request, 'contact.html')
 
 #stories view
-def stories(request):
-    return render(request, 'stories.html')
+def service(request):
+    return render(request, 'services.html')
 
 #products view
-def products(request):
-    return render(request, 'products.html')
+def team(request):
+    return render(request, 'team.html')
 
 
     
