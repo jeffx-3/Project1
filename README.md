@@ -1,5 +1,5 @@
 # How to contribute to the project
-(eMobilis class assignment)
+(eMobilis class (GO 2:00pm) assignment)
 
 Prerequisites
 
